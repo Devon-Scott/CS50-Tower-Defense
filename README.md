@@ -1,4 +1,6 @@
 This is a tower defense game I created as my final project for CS50x.
+
+A demonstration can be found here: https://m.youtube.com/watch?v=XhyQ8vC-qTE
 I created it primarily with the goal of testing my ability to learn and implement new ideas, such as mouse movement, the trigonometry involved with projectiles, rotation, and range calculations, level and path creation, as well as game balancing and enemy pathing
 I also had the secondary goal of acheiving a game that I could show to my friends and that they would hopefully enjoy
 This game is fairly simple and straightforward. The first couple of levels are some basic tutorial points, talking about how to spawn towers, move them onto the battlefield, and upgrade them, and about some of their properties. Level 4 starts an endless mode, where the number of enemies spawned increases relevant to the level number.
